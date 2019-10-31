@@ -13,4 +13,4 @@ Disallow:
 User-agent: *
 Disallow: 
 
-Sitemap: https://simas.ml/sitemap_simas.xml
+Sitemap: https://simas.ga/sitemap_simas.xml
