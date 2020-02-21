@@ -1,6 +1,8 @@
 # This is a README.md file...
 ## ...for the [gsimas.github.io](http://gsimas.github.io) webpage
 
+![](https://img.shields.io/badge/GSimas-Hola%2C%20amigo-green)
+
 > "O que me preocupa não é o barulho dos maus, mas sim, o silêncio dos bons" - **Albert Einstein**
 
 Hello, World! 
@@ -19,3 +21,5 @@ Repository created yesterday - 2017
 Repository update today - 2018
 
 Repository managed tomorrow - 2019
+
+Copyright - 2020
