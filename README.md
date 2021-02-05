@@ -22,4 +22,4 @@ Repository update today - 2018
 
 Repository managed tomorrow - 2019
 
-Copyright - 2020
+Copyright - ~~2020~~ 2021
