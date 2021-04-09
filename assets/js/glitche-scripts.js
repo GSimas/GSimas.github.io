@@ -157,6 +157,24 @@ $(function () {
 				stringsElement: $('.typing-subtitle22'),
 				loop: true
 			});
+
+			/* Typed subtitleaudio1 */
+			$('.typed-subtitleaudio1').typed({
+				stringsElement: $('.typing-subtitleaudio1'),
+				loop: true
+			});
+
+			/* Typed subtitleaudio2 */
+			$('.typed-subtitleaudio2').typed({
+				stringsElement: $('.typing-subtitleaudio2'),
+				loop: true
+			});
+
+			/* Typed subtitleaudio3 */
+			$('.typed-subtitleaudio3').typed({
+				stringsElement: $('.typing-subtitleaudio3'),
+				loop: true
+			});
 			
 			/* Typed breadcrumbs */
 			$('.typed-bread').typed({
