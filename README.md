@@ -22,4 +22,6 @@ Repository update today - 2018
 
 Repository managed tomorrow - 2019
 
-Copyright - ~~2020~~ 2021
+~~Copyright - ~~2020~~ 2021~~
+
+Copirraite - 2022
