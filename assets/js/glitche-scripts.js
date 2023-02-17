@@ -25,6 +25,42 @@ $(function () {
 			/* Preload hide */
 			$('.preloader').fadeOut();
 			$('body').addClass('loaded');
+
+			/* Typed subtitle */
+			$('.typed-subtitleCoda').typed({
+				stringsElement: $('.typing-subtitleCoda'),
+				loop: true
+			});
+
+			/* Typed subtitle */
+			$('.typed-subtitleObsidian').typed({
+				stringsElement: $('.typing-subtitleObsidian'),
+				loop: true
+			});
+
+			/* Typed subtitle */
+			$('.typed-subtitleTfT').typed({
+				stringsElement: $('.typing-subtitleTfT'),
+				loop: true
+			});
+
+			/* Typed subtitle */
+			$('.typed-subtitleAI').typed({
+				stringsElement: $('.typing-subtitleAI'),
+				loop: true
+			});
+
+			/* Typed subtitle */
+			$('.typed-subtitleBI').typed({
+				stringsElement: $('.typing-subtitleBI'),
+				loop: true
+			});
+
+			/* Typed subtitle */
+			$('.typed-subtitlePM').typed({
+				stringsElement: $('.typing-subtitlePM'),
+				loop: true
+			});
 			
 			/* Typed subtitle */
 			$('.typed-subtitle').typed({
