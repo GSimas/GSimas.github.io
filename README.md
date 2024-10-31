@@ -27,3 +27,5 @@ Repository managed tomorrow - 2019
 Copirraite - 2022
 
 Agora estamos em - 2023
+
+Hoje é 31 de outubro de 2024 (feliz halloween)
